@@ -1,6 +1,6 @@
 export class todolistServices{
 
-    todolist = ["wisnu","tamara","dwi"]
+    todolist = ["wisnu","mwm","mwm"]
 
     getJSONtodolist(){
         return JSON.stringify({
